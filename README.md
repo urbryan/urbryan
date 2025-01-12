@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Here's a little about me and my work:
 ## 🌟 Top Projects
 | Project Name       | Stars ⭐  | Forks 🍴 |
 |--------------------|----------|----------|
-| [Project1](https://github.com/urbryan/Project1) | 100 | 50 |
+| [Project1](https://github.com/urbryan/Couple) | 100 | 50 |
 | [Project2](https://github.com/urbryan/Project2) | 80  | 30 |
 | [Project3](https://github.com/urbryan/Project3) | 60  | 20 |
 
