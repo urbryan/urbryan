@@ -24,6 +24,7 @@
 
 ## 🎧 Listening
 ![Spotify](https://open.spotify.com/user/31xykcletpltlzzkmfa2gnrdql5q?si=G7SkvuymTfKMTMFl67pDGQ).
+![Spotify](https://i.imgur.com/example.png)
 
 ---
 ✨ **Thanks for Visiting!**
