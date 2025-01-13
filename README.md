@@ -18,8 +18,12 @@
 ---
 
 ## 🏆 Profile Stats
-![Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=urbryan&theme=radical&no-frame=true)
 
 ---
 
+## 🎧 Listening
+![Spotify](https://open.spotify.com/user/31xykcletpltlzzkmfa2gnrdql5q?si=G7SkvuymTfKMTMFl67pDGQ).
+
+---
 ✨ **Thanks for Visiting!**
