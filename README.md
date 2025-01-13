@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Here's a little about me and my work:
 |--------------------|----------|----------|
 | [Project1](https://github.com/urbryan/Couple) | 100 | 50 |
 | [Project2](https://github.com/urbryan/Project2) | 80  | 30 |
-| [Project3](https://github.com/urbryan/Project3) | 60  | 20 |
+| [Project3](https://github.com/urbryan/Deathmatch) | 60  | 20 |
 
 ---
 
