@@ -1,30 +1,25 @@
-# Hi there! 👋
-
-Welcome to my GitHub profile! Here's a little about me and my work:
-
----
+# 👋 Welcome to My GitHub Profile!
 
 ## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urbryan&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urbryan&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=urbryan&theme=dark&hide_border=true)
-
-## 🚀 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urbryan&layout=compact&theme=dark)
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urbryan&layout=compact&theme=radical)
 
 ---
 
-## 🌟 Top Projects
-| Project Name       | Stars ⭐  | Forks 🍴 |
-|--------------------|----------|----------|
-| [Project1](https://github.com/urbryan/Couple) | 100 | 50 |
-| [Project2](https://github.com/urbryan/Project2) | 80  | 30 |
-| [Project3](https://github.com/urbryan/Deathmatch) | 60  | 20 |
+## 🌟 Top 3 Projects
+| Project Name      | Stars (⭐) | Forks (🍴) |
+|-------------------|-----------|------------|
+| [Couple](#)       | 49        | 52         |
+| [P 2](#)          | 41        | 29         |
+| [P 3](#)          | 28        | 40         |
 
 ---
 
-## 💼 Profile Stats
-![Profile Views](https://komarev.com/ghpvc/?username=urbryan&color=blue)
+## 🏆 Profile Stats
+![Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true)
 
-Thanks for visiting! 💖
+---
+
+✨ **Thanks for Visiting!**
