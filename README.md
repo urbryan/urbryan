@@ -23,8 +23,7 @@
 ---
 
 ## 🎧 Listening
-![Spotify](https://images.app.goo.gl/AzqshPD8Xp2URy6M7)
-![](https://open.spotify.com/user/31xykcletpltlzzkmfa2gnrdql5q?si=G7SkvuymTfKMTMFl67pDGQ).
+![Spotify](https://images.app.goo.gl/AzqshPD8Xp2URy6M7) [](https://open.spotify.com/user/31xykcletpltlzzkmfa2gnrdql5q?si=G7SkvuymTfKMTMFl67pDGQ).
 
 ---
 ✨ **Thanks for Visiting!**
