@@ -23,7 +23,7 @@
 ---
 
 ## 🎧 Listening
-![Spotify](https://images.app.goo.gl/AzqshPD8Xp2URy6M7) [](https://open.spotify.com/user/31xykcletpltlzzkmfa2gnrdql5q?si=G7SkvuymTfKMTMFl67pDGQ).
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]([https://open.spotify.com/](https://open.spotify.com/user/31xykcletpltlzzkmfa2gnrdql5q?si=G7SkvuymTfKMTMFl67pDGQ))  
 
 ---
 ✨ **Thanks for Visiting!**
