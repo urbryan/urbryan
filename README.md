@@ -25,10 +25,5 @@
 ## 🎧 Listening
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]([https://open.spotify.com/](https://open.spotify.com/user/31xykcletpltlzzkmfa2gnrdql5q?si=G7SkvuymTfKMTMFl67pDGQ))  
 
-# 🎵 Spotify Playlist 🎵  
-
-Dengerin playlist favoritku langsung di sini:  
-
-<iframe src="[https://open.spotify.com/embed/playlist/123abc](https://open.spotify.com/](https://open.spotify.com/user/31xykcletpltlzzkmfa2gnrdql5q?si=G7SkvuymTfKMTMFl67pDGQ))" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 ---
 ✨ **Thanks for Visiting!**
