@@ -12,7 +12,7 @@
 | Project Name      | Stars (⭐) | Forks (🍴) |
 |-------------------|-----------|------------|
 | [Couple](#)       | 49        | 54         |
-| [CoffeShop](#)    | 41        | 29         |
+| [CoffeShop](https://github.com/urbryan/coffeshop)    | 41        | 29         |
 | [P 3](#)          | 28        | 40         |
 
 ---
