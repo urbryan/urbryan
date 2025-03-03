@@ -18,7 +18,7 @@
 ---
 
 ## 🏆 Profile Stats
-![Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=urbryan&theme=radical&no-frame=true)
 
 ---
 
