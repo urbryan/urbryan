@@ -23,6 +23,7 @@
 ---
 
 ## 🕺
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/urbryaan?igsh=MmdjeGpwZjB0aG1l)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31xykcletpltlzzkmfa2gnrdql5q?si=G7SkvuymTfKMTMFl67pDGQ)
 
 ---
