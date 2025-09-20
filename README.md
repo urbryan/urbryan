@@ -18,4 +18,4 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1124400133157695589)
 
 ---
-🗿 **Thanks for Visiting!**
+**Thanks for Visiting!**
