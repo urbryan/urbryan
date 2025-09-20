@@ -8,15 +8,6 @@
 
 ---
 
-## 🌟 Top 3 Projects
-| Project Name      | Stars (⭐) | Forks (🍴) |
-|-------------------|-----------|------------|
-| [Couple](#)       | 49        | 54         |
-| [CoffeShop](https://github.com/urbryan/coffeshop)    | 41        | 29         |
-| [P 3](#)          | 28        | 40         |
-
----
-
 ## 🏆 Profile Stats
 ![Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true)
 
