@@ -5,13 +5,6 @@ Hi! My name is **Bryan**, and I'm from **Yogyakarta, Indonesia 🇮🇩**.
 I'm a **16-yo developer** who loves learning about programming, automation, and tech in general.  
 Currently, I'm focusing on **Discord bot development** using **Node.js** and exploring **backend development**.
 
-### 🧠 Skills
-- **Languages:** JavaScript, HTML, CSS  
-- **Frameworks & Tools:** Node.js, Discord.js, Git, Linux  
-- **Interests:** Automation, API integration, UI/UX, Open Source  
-
-🎯 *"Code. Learn. Repeat."*
-
 ---
 
 ## 📊 My GitHub Stats
