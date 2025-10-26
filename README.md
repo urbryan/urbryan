@@ -11,12 +11,12 @@ Currently, I'm focusing on **Discord bot development** using **Node.js** and exp
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urbryan&show_icons=true&theme=radical)
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urbryan&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 Profile Stats
-![Trophies](https://github-profile-trophy.vercel.app/?username=urbryan&theme=radical&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=urbryann&theme=radical&no-frame=true)
 
 ---
 
